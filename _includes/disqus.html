@@ -1,18 +1,15 @@
-{% if page.comments != false %}
-<div id="disqus_thread"></div>
+          <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
 <script>
-
-var disqus_config = function () {
-this.page.url = '{{ page.url | absolute_url }}';
-this.page.identifier = '{{ page.url | absolute_url }}';
-};
-
-(function() {
-var d = document, s = d.createElement('script');
-s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+var gitment = new Gitment
+    id: '<%= page.title %>'
+    owner: 'Noyllopa',
+    repo: 'noyllopa.github.io',
+    oauth: {
+        client_id: '7afa106ce37a4a215033',
+        client_secret: 'e37b157f14bee9b2d1851e1bbdf62b4928124840',
+    },
+});
+gitment.render('container');
 </script>
-<noscript>Please enable JavaScript to view the comments.</noscript>
-{% endif %}
