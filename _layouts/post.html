@@ -21,20 +21,6 @@ layout: compress
   {% if page.featured-img %}
 
   <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/{{page.featured-img}}.jpg">
-    <div id="gitmentContainer"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-    owner: 'Noyllopa',
-    repo: 'noyllopa.github.io',
-    oauth: {
-        client_id: '7afa106ce37a4a215033',
-        client_secret: 'e37b157f14bee9b2d1851e1bbdf62b4928124840',
-    },
-});
-gitment.render('gitmentContainer');
-</script>
     {% else %}
     <div class="hero dark-bg">
       {% endif %}
@@ -96,7 +82,21 @@ gitment.render('gitmentContainer');
 
 
   </main>
-
+    <div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment
+    id: '<%= page.title %>'
+    owner: 'Noyllopa',
+    repo: 'noyllopa.github.io',
+    oauth: {
+        client_id: '7afa106ce37a4a215033',
+        client_secret: 'e37b157f14bee9b2d1851e1bbdf62b4928124840',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
   {% include footer.html %}
 
 </body>
