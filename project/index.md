@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content lyrics">
+<div class="index-content project">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
-            <li class="on" style="text-align:right"><a href="/lyrics"><span>Lyrics</span></a></li>
+            <li class="on" style="text-align:right"><a href="/project"><span>Project</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.lyrics %}
+        {% for post in site.categories.project %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
