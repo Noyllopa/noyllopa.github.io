@@ -83,21 +83,21 @@ layout: compress
       </div>
     </div>
 
-    {% if site.disqus.shortname %}
-
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
-
-          {% include disqus.html %}
-
-        </div>
-      </div>
-    </div>
-
-    {% endif %}
-
           <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment
+    id: '<%= page.title %>'
+    owner: 'Noyllopa',
+    repo: 'noyllopa.github.io',
+    oauth: {
+        client_id: '7afa106ce37a4a215033',
+        client_secret: 'e37b157f14bee9b2d1851e1bbdf62b4928124840',
+    },
+});
+gitment.render('container');
+</script>
   </main>
 
   {% include footer.html %}
