@@ -9,13 +9,15 @@ description: test for posts
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=19594429&amp;page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"> </embed>
 
-B站这里虽然成功加载出了播放器，然而视频无法正常播放，显示code:31x错误，还在找原因
+B站这里虽然成功加载出了播放器，然而视频无法正常播放，显示code:31x错误，而且还多了一个 “ </embed> ”标签，还在找原因
+
+据说无法播放的错误和ISP有关
 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSojYMzTl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 
-上方 youtube 可以正常显示
+插入 youtube 可以正常显示
 
 
 
@@ -29,32 +31,26 @@ B站这里虽然成功加载出了播放器，然而视频无法正常播放，�
 
 ## 音乐插入：
 
+普通插入示例：
+
 <iframe width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" > </iframe>
 
-</br>
+添加以下代码，之后只要更改歌曲id即可
 
 ```
 <iframe width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" > </iframe>
 ```
 
+若要居中显示，则插入如下代码
 
-
-添加以上代码，之后只要更改歌曲id即可
-
-若要居中显示，插入如下代码
+居中显示示例：
 
 <iframe src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" style="margin:0 auto;"></iframe>
 
-</br>
+代码：
 
 ```
 <iframe src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" style="margin:0 auto;"></iframe>
-```
-
-貌似插入播放器后直接插入代码块会导致内容重叠，这里在中间添加了一个
-
-```
-</br>
 ```
 
 
