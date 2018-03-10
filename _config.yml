@@ -9,3 +9,4 @@ title: Noyllopa's Blog
 url: https://noyllopa.github.io/
 feed: /atom.xml
 author_info: <a href="https://noyllopa.github.io/">Noyllopa</a>
+markdown: kramdown
