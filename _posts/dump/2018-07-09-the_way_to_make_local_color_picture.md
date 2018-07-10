@@ -17,7 +17,7 @@ description: 包括自动及手动方式.
 
 
 
-# 自动方法
+## 自动方法
 
 1. 使用应用 [Pixlr](https://play.google.com/store/apps/details?id=com.pixlr.express) 打开图片
 
@@ -41,7 +41,7 @@ description: 包括自动及手动方式.
 
    
 
-# 手动方法
+## 手动方法
 
 使用应用 [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed)
 
