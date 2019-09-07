@@ -38,7 +38,7 @@ description: 一个自用的去 App 下载提示规则
 
 2. 在规则列表中的第三方规则处添加
 
- https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt 
+   `https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt` 
 
 3. 同步即可
 
