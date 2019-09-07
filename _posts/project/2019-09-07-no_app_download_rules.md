@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NoAppDownload 规则（19/09/07更新）
+title: NoAppDownload 规则
 category: project
 description: 一个自用的去 App 下载提示规则
 ---
