@@ -11,6 +11,7 @@ B站：
 在页面下方“分享”处直接复制嵌入代码，建议使用 **4:3** 的宽高比。
 
 <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+代码如下：
 
 ```
 <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
@@ -20,6 +21,7 @@ B站：
 Youtube：在页面下方“分享”处复制嵌入代码，建议使用 **16:9** 的宽高比。
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+代码如下：
 
 ```
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
