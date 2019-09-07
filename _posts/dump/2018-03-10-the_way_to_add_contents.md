@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll博客下的内容插入
+title: jekyll 博客下的内容插入
 category: dump
 description: 图片、视频、音乐等插入posts内的方法
 ---
