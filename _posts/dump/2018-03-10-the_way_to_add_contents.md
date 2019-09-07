@@ -9,9 +9,9 @@ description: 图片、视频、音乐等插入posts内的方法
 
 B站：
 在页面下方“分享”处直接复制嵌入代码。
-<iframe width="720" height="540" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="540" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Youtube：
-<iframe width="720" height="540" src="https://www.youtube.com/embed/cSojYMzTl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<iframe width="540" height="480" src="https://www.youtube.com/embed/cSojYMzTl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 插入 youtube 可以正常显示
 
 
