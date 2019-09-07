@@ -4,7 +4,7 @@ title: NoAppDownload 规则（19/09/07更新）
 category: project
 description: 一个自用的去 App 下载提示规则
 ---
-# 简介
+## 简介
 
 这是一个自用的去 App 下载提示的规则，目前还在完善中。
 
@@ -12,7 +12,7 @@ description: 一个自用的去 App 下载提示规则
 
 
 
-# 举例：
+## 举例：
 
 使用前：
 
@@ -32,7 +32,7 @@ description: 一个自用的去 App 下载提示规则
 
 
 
-# 使用方法
+## 使用方法
 
 1. 首先在浏览器中安装一个支持第三方规则的广告屏蔽插件，如 uBlockOrigin （[Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)、[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)）
 2. 在规则列表中的第三方规则处添加 https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt 
@@ -40,7 +40,7 @@ description: 一个自用的去 App 下载提示规则
 
 
 
-# 其他
+## 其他
 
 由于本规则只是 Noyllopa 一时兴起做的，很有可能出现以下情况：
 
