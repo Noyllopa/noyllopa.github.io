@@ -23,21 +23,19 @@ description: 包括自动及手动方式.
 
 1. 使用应用 [Pixlr](https://play.google.com/store/apps/details?id=com.pixlr.express) 打开图片
 
-   <img src=""/>
-
-   <img src="https://ws1.sinaimg.cn/large/92c79279ly1ft3ztzpud4j20u01hc4a3.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/H789a330089ae4555a9e049c47570cf5a5.jpg">
 
 2. 在下方工具中选择局部彩色
 
-   <img src="https://ws1.sinaimg.cn/large/92c79279ly1ft3zu1c54uj20u01hcjvz.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/H2e9b52129b4f47e0b5e14d6dbc6b1144U.jpg">
 
 3. 选取想要局部彩色的区域
 
-   <img src="https://ws1.sinaimg.cn/large/92c79279ly1ft3ztywt3oj20u01hcaj2.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/H080c2935710844828bd84299337365b5j.jpg">
 
 4. 调整下方容差使画面完整
 
-   <img src="https://ws1.sinaimg.cn/large/92c79279ly1ft3zu1d9i9j20u01hck0g.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/Ha1a6bacbe85e40cbbab424400007f639k.jpg">
 
 5. 导出即可
 
@@ -49,10 +47,10 @@ description: 包括自动及手动方式.
 
 将画笔设置为 饱和度 -10, 涂掉想要做成黑白效果的区域即可
 
-<img src="https://ws1.sinaimg.cn/large/92c79279ly1ft417n0ptmj20u01hctfr.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/H8df56d6323ba4ac3b4801c21a9ba9dbbj.jpg">
 
-------
+---
 
 文末附上随手拍的花供大家练习.
 
-<img src="https://ws1.sinaimg.cn/large/92c79279ly1ft41h2kcg6j22bc334u0y.jpg"/>
+   <img src="https://ae01.alicdn.com/kf/H2474913cdfc04ba988346514cf7973aeY.jpg">
