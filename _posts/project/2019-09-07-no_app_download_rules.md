@@ -52,5 +52,5 @@ description: 一个自用的去 App 下载提示规则
 - 规则更改地址
 - 规则被删除
 
-另外，本规则欢迎进行反馈，项目地址为 https://github.com/Noyllopa/NoAppDownload.
+另外，本规则欢迎进行反馈，项目地址为 [https://github.com/Noyllopa/NoAppDownload](https://github.com/Noyllopa/NoAppDownload).
 
