@@ -7,34 +7,30 @@ description: 图片、视频、音乐等插入posts内的方法
 
 ## 视频插入：
 
-<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=19594429&amp;page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"> </embed>
-
-B站这里虽然成功加载出了播放器，然而视频无法正常播放，显示code:31x错误，而且还多了一个 “ </embed> ”标签，还在找原因
-
-据说无法播放的错误和ISP有关
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSojYMzTl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-
+B站：
+在页面下方“分享”处直接复制嵌入代码。
+<iframe width="858" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+Youtube：
+<iframe width="858" height="480" src="https://www.youtube.com/embed/cSojYMzTl_c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 插入 youtube 可以正常显示
 
 
 
-## 图片插入（id=61829883）：
+## 图片插入：
 
-<img src="https://ws1.sinaimg.cn/large/92c79279ly1fp7g3h7vzxj21ee0rsb2a.jpg"/>
+<img src="https://ae01.alicdn.com/kf/H59902fe00e904617a8510167fa401089y.png">
 
-使用 “新浪微博图床” 扩展生成HTML即可
+图片 pixiv id=61829883
 
+~~使用 “新浪微博图床” 扩展生成HTML即可~~
 
+2019.09.07更新：新浪微博图床开始防盗链了，故目前改用[聚合图床](https://www.superbed.cn/)。
 
 ## 音乐插入：
 
 普通插入示例：
 
 <iframe width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" > </iframe>
-
 添加以下代码，之后只要更改歌曲id即可
 
 ```
@@ -46,7 +42,6 @@ B站这里虽然成功加载出了播放器，然而视频无法正常播放，�
 居中显示示例：
 
 <iframe src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" style="margin:0 auto;"></iframe>
-
 代码：
 
 ```
@@ -57,6 +52,6 @@ B站这里虽然成功加载出了播放器，然而视频无法正常播放，�
 
 ## Gif插入：
 
-<img src="https://ws1.sinaimg.cn/large/92c79279ly1fp7g6emjmjg20cs07c7wn.gif"/>
+<img src="https://ae01.alicdn.com/kf/Haf72a2b136a34afdb5d3cd0de4036f91g.gif">
 
-同样使用 “新浪微博图床” 扩展
+同样使用[聚合图床](https://www.superbed.cn/)。
