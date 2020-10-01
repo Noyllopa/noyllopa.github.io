@@ -36,9 +36,9 @@ description: 一个自用的去 App 下载提示规则
 
 1. 首先在浏览器中安装一个支持第三方规则的广告屏蔽插件，如 uBlockOrigin （[Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)、[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)）
 
-2. 在规则列表中的第三方规则处添加这个地址  [Github](https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt) 
+2. 在规则列表中的第三方规则处添加这个地址  https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 
-   GitHub无法使用的同学请用这个地址 [码云](https://gitee.com/Noyllopa/NoAppDownload/raw/master/NoAppDownload.txt) 
+   GitHub无法使用的同学请用这个地址 https://gitee.com/Noyllopa/NoAppDownload/raw/master/NoAppDownload.txt
 
 
 3. 同步即可
