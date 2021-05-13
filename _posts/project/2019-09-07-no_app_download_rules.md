@@ -42,7 +42,7 @@ description: 一个自用的去 App 下载提示规则
    https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
    ```
 
-   GitHub无法使用的同学请用这个地址
+   ~~GitHub无法使用的同学请用这个地址~~ 2021-5-13更新：不知道触发了什么关键词，下方链接已经无法使用了。请使用上方 GitHub 地址。
 
    ```
    https://gitee.com/Noyllopa/NoAppDownload/raw/master/NoAppDownload.txt 
