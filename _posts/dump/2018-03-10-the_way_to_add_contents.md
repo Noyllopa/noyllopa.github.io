@@ -30,13 +30,17 @@ Youtube：在页面下方“分享”处复制嵌入代码，建议使用 **16:9
 
 ## 图片插入：
 
-<img src="https://ae01.alicdn.com/kf/H59902fe00e904617a8510167fa401089y.png">
+![red and white Game On LED signage](https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/photo-1546443046-ed1ce6ffd1ab)
 
-图片 pixiv id=61829883
+Photo by [鏡飛匙](https://unsplash.com/@sweetheartshi)
 
 ~~使用 “新浪微博图床” 扩展生成HTML即可~~
 
-2019.09.07更新：新浪微博图床开始防盗链了，故目前改用[聚合图床](https://www.superbed.cn/)。
+~~2019.09.07更新：新浪微博图床开始防盗链了，故目前改用[聚合图床](https://www.superbed.cn/)。~~
+
+2021.07.20更新：虽然聚合图床的使用体验不错，但好像也没必要为了这点速度放弃 GitHub 本身作为图床，而且使用 Typora 直接上传图片还要更加方便一些。具体操作可百度 “PicGo + GitHub + Typora”
+
+
 
 
 ## 音乐插入：
@@ -65,6 +69,8 @@ Youtube：在页面下方“分享”处复制嵌入代码，建议使用 **16:9
 
 ## Gif插入：
 
-<img src="https://ae01.alicdn.com/kf/Haf72a2b136a34afdb5d3cd0de4036f91g.gif">
+<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/Haf72a2b136a34afdb5d3cd0de4036f91g.gif">
 
-同样使用[聚合图床](https://www.superbed.cn/)。
+~~同样使用[聚合图床](https://www.superbed.cn/)。~~
+
+同样使用 GitHub 作为图床。
