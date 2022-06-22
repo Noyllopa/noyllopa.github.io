@@ -4,6 +4,3 @@
 * 感谢来自于beiyuu的设计(http://beiyuu.com/)
 * 感谢 mukosame 的模板。(https://github.com/Mukosame)
 * 希望你喜欢
-* 欢迎star
-* 欢迎fork
-* Happy hacking ^_^
