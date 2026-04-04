@@ -1472,6 +1472,9 @@ figure.highlight td.code > pre {
 .markdown-body figure > img,
 .markdown-body figure > a > img {
   max-width: 90%;
+  max-height: 500px;
+  width: auto;
+  height: auto;
   margin: 1.5rem auto;
   display: block;
   box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
