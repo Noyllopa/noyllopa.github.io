@@ -1,0 +1,39 @@
+name: Hexo Deploy
+
+on:
+  push:
+    branches:
+      - hexo-source # 只有向这个分支提交代码时才触发
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true # 如果以后把主题当做子模块引用，这行很重要
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm install
+          # 确保安装了 hexo-cli
+          npm install -g hexo-cli
+
+      - name: Build
+        run: |
+          hexo clean
+          hexo generate
+
+      - name: Deploy to Main Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: public # Hexo 生成的静态文件目录
+          branch: main # 部署到 main 分支
+          token: ${{ secrets.GITHUB_TOKEN }} # 使用内置 Token 即可
