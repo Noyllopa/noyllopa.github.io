@@ -2,7 +2,7 @@
 title: 怀念清单
 date: 2019-12-21 00:00:00
 categories:
-  - blog
+  - life
 tags:
   - 随笔
   - 音乐
@@ -19,7 +19,7 @@ description: 一些值得怀念的不存在了的事物。
 
 #### 1. wowaka
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/5dfe0ea576085c3289cd0a7b.jpg">
+![wowaka](/images/5dfe0ea576085c3289cd0a7b.jpg)
 
 **WOWAKA**（日语：ヲワカ，1987年11月4日－2019年4月5日），或称作**现实逃避P**（日语：現実逃避P），日本音乐创作家，hitorie 乐队主唱。2019年4月5日因急性心脏衰竭去世，享年31岁。
 
@@ -35,7 +35,7 @@ description: 一些值得怀念的不存在了的事物。
 
 #### 2. ~~Misha~~（已复出）
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/5dfe0e0176085c3289ccb910.jpg" style="zoom: 33%;" >
+![Misha](/images/5dfe0e0176085c3289ccb910.jpg)
 
 **Misha**，原 Ququ Hchiju（前身为 ViA Factory）主唱。2018年2月24日在 YouTube 直播中宣布隐退。「 因为各种各样的麻烦重叠起来，唱歌变得困难了。 」
 
@@ -47,7 +47,7 @@ Misha 在19年5月重新注册了推特账号「ひさしろ@k_sqh」 ，并且�
 
 #### 3. ~~Tohma~~（已复出）
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/JR5geS.jpg" alt="JR5geS.jpg" border="0" />
+![Tohma](/images/JR5geS.jpg)
 
 **Tohma**（トーマ）是日本音乐创作家。他的歌曲一般都有令人惊异的歌词与嘈杂、狂暴的编曲。他擅长硬摇滚与重金属旋律。同时，Tohma 也是一位灵活的作曲家，可以将硬摇滚和轻电子乐融为一体，在整个作品中创造出他标志性的曲调。
 
@@ -63,7 +63,7 @@ Tohma 在 2013 年 4 月发表隐退文「心脏」。2019年以 [Gyoson]() 身�
 
 #### 1. BB10 系统
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/5fb0db6903ef67fd9a9c5f88.png" style="zoom: 50%;" >
+![BB10](/images/5fb0db6903ef67fd9a9c5f88.png)
 
 **BlackBerry 10**，是由[黑莓公司](https://zh.wikipedia.org/wiki/黑莓公司)所研发的[移动操作系统](https://zh.wikipedia.org/wiki/行動作業系統)，使用于他们公司所开发的[黑莓手机](https://zh.wikipedia.org/wiki/黑莓手機)，以及[平板电脑](https://zh.wikipedia.org/wiki/平板電腦)之上。作为 [BlackBerry OS](https://zh.wikipedia.org/wiki/BlackBerry_OS) 的后继者，它的[内核](https://zh.wikipedia.org/wiki/内核)是 [QNX](https://zh.wikipedia.org/wiki/QNX)，RIM 公司在 2010 年所收购的操作系统核心。2013 年 1 月 30 日，BlackBerry 10 正式公开发布，同时发布全触控手机 Z10。同一天公司宣布由 「Research In Motion」 更名为黑莓。
 
@@ -77,7 +77,7 @@ BB10 系统可兼容安卓应用，虽然使用的是安卓版本 4.3 的虚拟�
 
 #### 2. 腾讯 TOS 第三方ROM
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/5f0273ed14195aa594b64dcc.jpg">
+![腾讯TOS](/images/5f0273ed14195aa594b64dcc.jpg)
 
 2012年，在安卓第三方 ROM 比较火热的时候，腾讯也宣布退出自己的第三方 ROM ——腾讯 Tita。具体多少装机量我没有找到数据，但当时比较火的几个论坛中都没什么讨论量，远远没有乐蛙、百度云 ROM 等的影响力大。2015年，也许是腾讯不甘失败，又推出了 TencentOS（即TOS），正好能整合应用宝、手机管家、浏览器三大产品线。如果与QQ、微信等深度整合，再加上腾讯地图、大众点评、腾讯新闻、腾讯视频、微云等等，它自己几乎就是一个生态。
 
@@ -93,15 +93,15 @@ TOS 是好产品吗？我觉得是，它绝对是一款高水平的深度定制 
 
 先介绍一下 EICO design，这家公司做出过很多优秀的设计，例如 Flyme，美图手机的 MEIOS，weico 微博，海底捞点餐系统等等。尤其是在交互设计和界面设计上深得我心。2015 年 5 月 28 日，一加手机与 EICO 定制的 H2OS 正式发布。顺带一提，此时 MIUI 还是 V5 版本。
 
-<img src="https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/HydrogenOS-H2OS-v1.2.0-ROM.jpg" alt="HydrogenOS H2OS v1.2.0 ROM" style="zoom: 25%;" />
+![H2OS](/images/HydrogenOS-H2OS-v1.2.0-ROM.jpg)
 
-H2OS 的第一版做出来是非常惊艳的，带着那时定制 ROM 百花齐放的特点。例如上图首页的布局，上1/3 部分为“氢视窗”，下 2/3 部分则为 3x3 的应用图标。当时印象中很多国产系统都在想方设法抄iOS，几乎清一色的 4x4 布局。H2OS（还有当时的 Smartisan OS）简直一股清流。
+H2OS 的第一版做出来是非常惊艳的，带着那时定制 ROM 百花齐放的特点。例如上图首页的布局，上1/3 部分为"氢视窗"，下 2/3 部分则为 3x3 的应用图标。当时印象中很多国产系统都在想方设法抄iOS，几乎清一色的 4x4 布局。H2OS（还有当时的 Smartisan OS）简直一股清流。
 
-![](https://raw.githubusercontent.com/Noyllopa/noyllopa.github.io/master/images/24.png)
+![H2OS界面](/images/24.png)
 
-H2OS 在谷歌 Material design 的基础上进行拓展和优化，设计风格融合的简直可以说是完美。同时因为当时正处于手机从小屏到大屏的过渡阶段，EICO design 将 “2/3” 的设计理念融入到设计中，使大屏的操作体验也不算很差。另外，圆形、方形等几何图形的大面积应用以及阴影的设计都恰到好处。在我心目中这真的是定制 ROM 中设计的巅峰了。其中例如时钟、APP、上拉控制栏、卡片短信的设计非常值得欣赏。有一点小遗憾，可能是受限于技术，氢视窗并没能做出原设计中的效果，难以作为“视窗”使用，更像是“卡包”。
+H2OS 在谷歌 Material design 的基础上进行拓展和优化，设计风格融合的简直可以说是完美。同时因为当时正处于手机从小屏到大屏的过渡阶段，EICO design 将 "2/3" 的设计理念融入到设计中，使大屏的操作体验也不算很差。另外，圆形、方形等几何图形的大面积应用以及阴影的设计都恰到好处。在我心目中这真的是定制 ROM 中设计的巅峰了。其中例如时钟、APP、上拉控制栏、卡片短信的设计非常值得欣赏。有一点小遗憾，可能是受限于技术，氢视窗并没能做出原设计中的效果，难以作为"视窗"使用，更像是"卡包"。
 
-但在 H2OS 2.5 后，一加做出了巨大的改变。可以说除了保留氢视窗和天气应用外，原来的 H2OS 被全部舍弃，更像是 OxygenOS 做了一点本地化。再后来，连氢视窗也取消了。设计风格的变化没问题，但在后期 H2OS 却在同时存在了谷歌 Material Design、一加自身绘制的线条设计、来自 OPPO 的应用这三种截然不同的设计风格，割裂感很大。再加上长时间不更新、功能严重缺失、众多 BUG 没有解决等问题，H2OS 也逐渐没落。最有代表性的就是“禅定”，在众多用户为功能确实叫苦不迭时，一加却频频大力宣传自身的禅定模式功能（也有可能是实在没什么可以宣传的了），“禅定”一时间变成了嘲讽一加的标准用语。最后，一加宣布，从一加 9 开始，重新搭载 Color OS。
+但在 H2OS 2.5 后，一加做出了巨大的改变。可以说除了保留氢视窗和天气应用外，原来的 H2OS 被全部舍弃，更像是 OxygenOS 做了一点本地化。再后来，连氢视窗也取消了。设计风格的变化没问题，但在后期 H2OS 却在同时存在了谷歌 Material Design、一加自身绘制的线条设计、来自 OPPO 的应用这三种截然不同的设计风格，割裂感很大。再加上长时间不更新、功能严重缺失、众多 BUG 没有解决等问题，H2OS 也逐渐没落。最有代表性的就是"禅定"，在众多用户为功能确实叫苦不迭时，一加却频频大力宣传自身的禅定模式功能（也有可能是实在没什么可以宣传的了），"禅定"一时间变成了嘲讽一加的标准用语。最后，一加宣布，从一加 9 开始，重新搭载 Color OS。
 
 我至今仍认为 H2OS 2.0 版本的设计理念是非常领先的。就算照搬过来，除了上拉控制栏这点不太符合目前的全面屏操作手势外，也是非常优秀的设计。只可惜在一加糟糕的维护和运营下，糟蹋了如此优秀的系统。
 

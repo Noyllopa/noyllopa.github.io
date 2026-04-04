@@ -2,7 +2,7 @@
 title: 简单的制作局部彩色图片的方法
 date: 2018-07-09 00:00:00
 categories:
-  - dump
+  - tech
 tags:
   - 教程
   - 摄影

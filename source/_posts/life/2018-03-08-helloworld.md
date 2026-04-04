@@ -2,7 +2,7 @@
 title: 你好，世界！
 date: 2018-03-08 00:00:00
 categories:
-  - blog
+  - life
 tags:
   - 随笔
   - 博客
