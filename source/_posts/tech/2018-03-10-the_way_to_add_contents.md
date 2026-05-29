@@ -16,21 +16,21 @@ description: 图片、视频、音乐等插入posts内的方法
 B站：
 在页面下方"分享"处直接复制嵌入代码，建议使用 **4:3** 的宽高比。
 
-<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="640" height="480" src="https://player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen="true"> </iframe>
 代码如下：
 
 ```
-<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>`
+<iframe width="640" height="480" src="https://player.bilibili.com/player.html?aid=1067674&cid=1544341&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen="true"> </iframe>`
 ```
 
 
 Youtube：在页面下方"分享"处复制嵌入代码，建议使用 **16:9** 的宽高比。
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 代码如下：
 
 ```
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cqj6B7crEOA" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
 
@@ -51,22 +51,22 @@ Photo by [Heriberto Murrieta](https://unsplash.com/@heribertomurr)
 
 普通插入示例：
 
-<iframe width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" > </iframe>
+<iframe width="330" height="86" src="https://music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
 添加以下代码，之后只要更改歌曲id即可
 
 ```
-<iframe width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" > </iframe>
+<iframe width="330" height="86" src="https://music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" frameborder="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
 ```
 
 若要居中显示，则插入如下代码
 
 居中显示示例：
 
-<iframe src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" style="margin:0 auto;"></iframe>
+<iframe src="https://music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="margin:0 auto;"></iframe>
 代码：
 
 ```
-<iframe src="//music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" style="margin:0 auto;"></iframe>
+<iframe src="https://music.163.com/outchain/player?type=2&amp;id=529824966&amp;auto=0&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="margin:0 auto;"></iframe>
 ```
 
 

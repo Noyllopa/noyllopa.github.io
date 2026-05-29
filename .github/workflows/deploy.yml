@@ -21,15 +21,12 @@ jobs:
           cache: 'npm'
 
       - name: Install Dependencies
-        run: |
-          npm install
-          # 确保安装了 hexo-cli
-          npm install -g hexo-cli
+        run: npm ci
 
       - name: Build
         run: |
-          hexo clean
-          hexo generate
+          npx hexo clean
+          npx hexo generate
 
       - name: Deploy to Main Branch
         uses: JamesIves/github-pages-deploy-action@v4

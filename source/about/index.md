@@ -27,9 +27,4 @@ layout: about
 
 ---
 
-## ✉️ 找到我
-
-* **GitHub**: [Noyllopa](https://github.com/Noyllopa)
-* **Weibo**: `https://weibo.com/noyllopa`
-
 > "遇事不决，暴力穷举."

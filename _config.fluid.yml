@@ -1,0 +1,51 @@
+# Fluid theme overrides kept outside themes/fluid for easier theme upgrades.
+favicon: /img/favicon.png
+apple_touch_icon: /img/favicon.png
+
+navbar:
+  blog_title: "Noyllopa's Blog"
+
+index:
+  banner_img: /img/default.jpg
+  slogan:
+    text: "遇事不决，暴力穷举。"
+
+post:
+  banner_img: /img/default.jpg
+  comments:
+    enable: true
+    type: giscus
+
+giscus:
+  repo: Noyllopa/noyllopa.github.io
+  repo-id: MDEwOlJlcG9zaXRvcnkxMjMzMTI2Mjg=
+  category: General
+  category-id: DIC_kwDOB1mZ9M4C6eAk
+
+archive:
+  banner_img: /img/default.jpg
+
+category:
+  banner_img: /img/default.jpg
+
+tag:
+  banner_img: /img/default.jpg
+
+about:
+  banner_img: /img/default.jpg
+  avatar: /img/avatar.jpg
+  name: "Noyllopa"
+  intro: "Geek | ACG | 守望先锋 . 明日方舟 . 主机游戏"
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com/Noyllopa", tip: "GitHub" }
+    - { class: "iconfont icon-weibo-fill", link: "https://weibo.com/noyllopa", tip: "微博" }
+
+page:
+  banner_img: /img/default.jpg
+
+page404:
+  banner_img: /img/default.jpg
+
+links:
+  banner_img: /img/default.jpg
+  onerror_avatar: /img/avatar.jpg

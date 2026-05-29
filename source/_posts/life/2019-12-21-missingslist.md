@@ -19,7 +19,7 @@ description: 一些值得怀念的不存在了的事物。
 
 #### 1. wowaka
 
-![wowaka](/images/5dfe0ea576085c3289cd0a7b.jpg)
+![wowaka](/images/5dfe0ea576085c3289cd0a7b.png)
 
 **WOWAKA**（日语：ヲワカ，1987年11月4日－2019年4月5日），或称作**现实逃避P**（日语：現実逃避P），日本音乐创作家，hitorie 乐队主唱。2019年4月5日因急性心脏衰竭去世，享年31岁。
 
@@ -47,7 +47,7 @@ Misha 在19年5月重新注册了推特账号「ひさしろ@k_sqh」 ，并且�
 
 #### 3. ~~Tohma~~（已复出）
 
-![Tohma](/images/JR5geS.jpg)
+![Tohma](/images/ElDlwww5.jpg)
 
 **Tohma**（トーマ）是日本音乐创作家。他的歌曲一般都有令人惊异的歌词与嘈杂、狂暴的编曲。他擅长硬摇滚与重金属旋律。同时，Tohma 也是一位灵活的作曲家，可以将硬摇滚和轻电子乐融为一体，在整个作品中创造出他标志性的曲调。
 
@@ -63,7 +63,7 @@ Tohma 在 2013 年 4 月发表隐退文「心脏」。2019年以 [Gyoson]() 身�
 
 #### 1. BB10 系统
 
-![BB10](/images/5fb0db6903ef67fd9a9c5f88.png)
+![BB10](/images/bb10-system.jpg)
 
 **BlackBerry 10**，是由[黑莓公司](https://zh.wikipedia.org/wiki/黑莓公司)所研发的[移动操作系统](https://zh.wikipedia.org/wiki/行動作業系統)，使用于他们公司所开发的[黑莓手机](https://zh.wikipedia.org/wiki/黑莓手機)，以及[平板电脑](https://zh.wikipedia.org/wiki/平板電腦)之上。作为 [BlackBerry OS](https://zh.wikipedia.org/wiki/BlackBerry_OS) 的后继者，它的[内核](https://zh.wikipedia.org/wiki/内核)是 [QNX](https://zh.wikipedia.org/wiki/QNX)，RIM 公司在 2010 年所收购的操作系统核心。2013 年 1 月 30 日，BlackBerry 10 正式公开发布，同时发布全触控手机 Z10。同一天公司宣布由 「Research In Motion」 更名为黑莓。
 
