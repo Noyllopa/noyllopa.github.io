@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Noyllopa</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://noyllopa.github.io/</id>
+  <link href="https://noyllopa.github.io/" rel="alternate"/>
+  <link href="https://noyllopa.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Noyllopa</rights>
+  <subtitle>遇事不决,暴力穷举.</subtitle>
+  <title>Noyllopa's Blog</title>
+  <updated>2026-05-29T18:30:13.879Z</updated>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="tech" scheme="https://noyllopa.github.io/categories/tech/"/>
+    <category term="RIME" scheme="https://noyllopa.github.io/tags/RIME/"/>
+    <category term="输入法" scheme="https://noyllopa.github.io/tags/%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    <category term="配置" scheme="https://noyllopa.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    <category term="Lua" scheme="https://noyllopa.github.io/tags/Lua/"/>
+    <id>https://noyllopa.github.io/2026/02/03/tech/2026-02-04-custom_RIME_configuration/</id>
+    <link href="https://noyllopa.github.io/2026/02/03/tech/2026-02-04-custom_RIME_configuration/"/>
+    <published>2026-02-03T16:00:00.000Z</published>
+    <summary>这篇文章介绍了我对万象拼音方案进行的一系列个性化优化配置。</summary>
+    <title>个人RIME输入法配置方案</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="life" scheme="https://noyllopa.github.io/categories/life/"/>
+    <category term="随笔" scheme="https://noyllopa.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="音乐" scheme="https://noyllopa.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="手机" scheme="https://noyllopa.github.io/tags/%E6%89%8B%E6%9C%BA/"/>
+    <id>https://noyllopa.github.io/2019/12/20/life/2019-12-21-missingslist/</id>
+    <link href="https://noyllopa.github.io/2019/12/20/life/2019-12-21-missingslist/"/>
+    <published>2019-12-20T16:00:00.000Z</published>
+    <summary>一些值得怀念的不存在了的事物。</summary>
+    <title>怀念清单</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="project" scheme="https://noyllopa.github.io/categories/project/"/>
+    <category term="去广告" scheme="https://noyllopa.github.io/tags/%E5%8E%BB%E5%B9%BF%E5%91%8A/"/>
+    <category term="浏览器" scheme="https://noyllopa.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <category term="uBlockOrigin" scheme="https://noyllopa.github.io/tags/uBlockOrigin/"/>
+    <id>https://noyllopa.github.io/2019/09/06/project/2019-09-07-no_app_download_rules/</id>
+    <link href="https://noyllopa.github.io/2019/09/06/project/2019-09-07-no_app_download_rules/"/>
+    <published>2019-09-06T16:00:00.000Z</published>
+    <summary>一个自用的去 App 下载提示规则</summary>
+    <title>NoAppDownload 规则</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="tech" scheme="https://noyllopa.github.io/categories/tech/"/>
+    <category term="教程" scheme="https://noyllopa.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="摄影" scheme="https://noyllopa.github.io/tags/%E6%91%84%E5%BD%B1/"/>
+    <category term="图片处理" scheme="https://noyllopa.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    <id>https://noyllopa.github.io/2018/07/08/tech/2018-07-09-the_way_to_make_local_color_picture/</id>
+    <link href="https://noyllopa.github.io/2018/07/08/tech/2018-07-09-the_way_to_make_local_color_picture/"/>
+    <published>2018-07-08T16:00:00.000Z</published>
+    <summary>包括自动及手动方式.</summary>
+    <title>简单的制作局部彩色图片的方法</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="tech" scheme="https://noyllopa.github.io/categories/tech/"/>
+    <category term="博客" scheme="https://noyllopa.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="教程" scheme="https://noyllopa.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://noyllopa.github.io/tags/Hexo/"/>
+    <id>https://noyllopa.github.io/2018/03/09/tech/2018-03-10-the_way_to_add_contents/</id>
+    <link href="https://noyllopa.github.io/2018/03/09/tech/2018-03-10-the_way_to_add_contents/"/>
+    <published>2018-03-09T16:00:00.000Z</published>
+    <summary>图片、视频、音乐等插入posts内的方法</summary>
+    <title>Jekyll 博客下的内容插入</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Noyllopa</name>
+    </author>
+    <category term="life" scheme="https://noyllopa.github.io/categories/life/"/>
+    <category term="随笔" scheme="https://noyllopa.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="博客" scheme="https://noyllopa.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://noyllopa.github.io/2018/03/07/life/2018-03-08-helloworld/</id>
+    <link href="https://noyllopa.github.io/2018/03/07/life/2018-03-08-helloworld/"/>
+    <published>2018-03-07T16:00:00.000Z</published>
+    <summary>这里是Noyllopa的个人博客.</summary>
+    <title>你好，世界！</title>
+    <updated>2026-05-29T18:30:13.879Z</updated>
+  </entry>
+</feed>

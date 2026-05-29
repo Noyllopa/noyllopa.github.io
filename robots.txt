@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noyllopa.github.io/sitemap.xml
