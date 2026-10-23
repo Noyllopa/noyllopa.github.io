@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Noyllopa</rights>
   <subtitle>遇事不决,暴力穷举.</subtitle>
   <title>Noyllopa's Blog</title>
-  <updated>2026-10-23T16:52:55.597Z</updated>
+  <updated>2026-10-23T16:55:33.178Z</updated>
   <entry>
     <author>
       <name>Noyllopa</name>
@@ -23,7 +23,7 @@
     <published>2026-10-23T16:26:03.000Z</published>
     <summary>这一年里值得买和劝退的东西。</summary>
     <title>2026 年度推荐与不推荐</title>
-    <updated>2026-10-23T16:52:55.597Z</updated>
+    <updated>2026-10-23T16:55:33.178Z</updated>
   </entry>
   <entry>
     <author>
@@ -39,7 +39,7 @@
     <published>2026-02-03T16:00:00.000Z</published>
     <summary>这篇文章介绍了我对万象拼音方案进行的一系列个性化优化配置。</summary>
     <title>个人RIME输入法配置方案</title>
-    <updated>2026-10-23T16:52:55.623Z</updated>
+    <updated>2026-10-23T16:55:33.210Z</updated>
   </entry>
   <entry>
     <author>
@@ -54,7 +54,7 @@
     <published>2019-12-20T16:00:00.000Z</published>
     <summary>一些值得怀念的不存在了的事物。</summary>
     <title>怀念清单</title>
-    <updated>2026-10-23T16:52:55.597Z</updated>
+    <updated>2026-10-23T16:55:33.178Z</updated>
   </entry>
   <entry>
     <author>
@@ -69,7 +69,7 @@
     <published>2019-09-06T16:00:00.000Z</published>
     <summary>一个自用的去 App 下载提示规则</summary>
     <title>NoAppDownload 规则</title>
-    <updated>2026-10-23T16:52:55.622Z</updated>
+    <updated>2026-10-23T16:55:33.209Z</updated>
   </entry>
   <entry>
     <author>
@@ -84,7 +84,7 @@
     <published>2018-07-08T16:00:00.000Z</published>
     <summary>包括自动及手动方式.</summary>
     <title>简单的制作局部彩色图片的方法</title>
-    <updated>2026-10-23T16:52:55.623Z</updated>
+    <updated>2026-10-23T16:55:33.210Z</updated>
   </entry>
   <entry>
     <author>
@@ -99,7 +99,7 @@
     <published>2018-03-09T16:00:00.000Z</published>
     <summary>图片、视频、音乐等插入posts内的方法</summary>
     <title>Jekyll 博客下的内容插入</title>
-    <updated>2026-10-23T16:52:55.622Z</updated>
+    <updated>2026-10-23T16:55:33.209Z</updated>
   </entry>
   <entry>
     <author>
@@ -113,6 +113,6 @@
     <published>2018-03-07T16:00:00.000Z</published>
     <summary>这里是Noyllopa的个人博客.</summary>
     <title>你好，世界！</title>
-    <updated>2026-10-23T16:52:55.597Z</updated>
+    <updated>2026-10-23T16:55:33.178Z</updated>
   </entry>
 </feed>
