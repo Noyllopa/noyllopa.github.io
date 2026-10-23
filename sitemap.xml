@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://noyllopa.github.io/2018/07/08/tech/2018-07-09-the_way_to_make_local_color_picture/</loc>
+    <loc>https://noyllopa.github.io/2026/02/03/tech/2026-02-04-custom_RIME_configuration/</loc>
     
     <lastmod>2026-10-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/2026/02/03/tech/2026-02-04-custom_RIME_configuration/</loc>
+    <loc>https://noyllopa.github.io/2018/07/08/tech/2018-07-09-the_way_to_make_local_color_picture/</loc>
     
     <lastmod>2026-10-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/2026/10/23/life/2026-10-24-year-in-review-recommendations/</loc>
+    <loc>https://noyllopa.github.io/2018/03/09/tech/2018-03-10-the_way_to_add_contents/</loc>
     
     <lastmod>2026-10-23</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/2018/03/09/tech/2018-03-10-the_way_to_add_contents/</loc>
+    <loc>https://noyllopa.github.io/2018/03/07/life/2018-03-08-helloworld/</loc>
     
     <lastmod>2026-10-23</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/2018/03/07/life/2018-03-08-helloworld/</loc>
+    <loc>https://noyllopa.github.io/2026/10/23/life/2026-10-24-year-in-review-recommendations/</loc>
     
     <lastmod>2026-10-23</lastmod>
     
@@ -104,27 +104,6 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/tags/%E5%8E%BB%E5%B9%BF%E5%91%8A/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://noyllopa.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://noyllopa.github.io/tags/uBlockOrigin/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://noyllopa.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -132,35 +111,7 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://noyllopa.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://noyllopa.github.io/tags/Hexo/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://noyllopa.github.io/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://noyllopa.github.io/tags/%E6%89%8B%E6%9C%BA/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,6 +145,55 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E5%8E%BB%E5%B9%BF%E5%91%8A/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/uBlockOrigin/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://noyllopa.github.io/tags/%E6%89%8B%E6%9C%BA/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -204,14 +204,14 @@
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/categories/project/</loc>
+    <loc>https://noyllopa.github.io/categories/tech/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://noyllopa.github.io/categories/tech/</loc>
+    <loc>https://noyllopa.github.io/categories/project/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
