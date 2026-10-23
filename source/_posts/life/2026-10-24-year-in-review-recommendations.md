@@ -19,7 +19,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 1. 小米 15
 
-![深灰色小米 15 手机正面与背面](2026-10-24-year-in-review-recommendations/3d1419a82a3e84695c5cf5daf946adf6a2f7e8f7.png)
+![深灰色小米 15 手机](2026-10-24-year-in-review-recommendations/3d1419a82a3e84695c5cf5daf946adf6a2f7e8f7.png)
 
 推荐：小米 15。价格参考：16GB + 512GB / 2800 元。
 
@@ -27,7 +27,7 @@ description: 这一年里值得买和劝退的东西。
 
 要说问题，确实也有。在动辄手机电池容量达到 8000、10000 毫安时的今天，小米 15 5400 毫安时的典型容量确实不太够看。但瑕不掩瑜，如果中短期内有换机需求，快囤一台吧。
 
-### 2.蜂蜜冻干柠檬片
+### 2. 蜂蜜冻干柠檬片
 
 ![蜂蜜冻干柠檬片](2026-10-24-year-in-review-recommendations/9746a327e9011420daeb53d5eb3d64ab3381d183.webp)
 
@@ -57,7 +57,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 5. 酷态科 6 号电能卡片 Air
 
-![酷态科 6 号电能卡片 Air 插在墙插上，标注重心上移结构](2026-10-24-year-in-review-recommendations/dcc725ac251a2209d27345fddfb7cb53edceca4e.png)
+![酷态科 6 号电能卡片 Air](2026-10-24-year-in-review-recommendations/dcc725ac251a2209d27345fddfb7cb53edceca4e.png)
 
 推荐：酷态科 6 号电能卡片 Air。价格参考：86 元。
 
@@ -65,7 +65,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 6. 美国运通信用卡
 
-![美国运通标志与「有此相伴 成此人生」标语](2026-10-24-year-in-review-recommendations/7386b53e92ca16280d59b47f1d8dd66f240cf7c9.png)
+![美国运通](2026-10-24-year-in-review-recommendations/7386b53e92ca16280d59b47f1d8dd66f240cf7c9.png)
 
 推荐：美国运通信用卡
 
@@ -75,7 +75,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 7. 农行 VISA 全球支付尊享白金卡
 
-![农行 VISA 全球支付尊享白金卡宣传图](2026-10-24-year-in-review-recommendations/c34c077920d68537d209432091a0316f18669f65.png)
+![农行 VISA 全球支付尊享白金卡](2026-10-24-year-in-review-recommendations/c34c077920d68537d209432091a0316f18669f65.png)
 
 推荐：农行 VISA 全球支付尊享白金卡
 
@@ -83,7 +83,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 8. AI 智能体平台
 
-![DeepSeek Harness 官网首页，标语「现在，开箱即用」](2026-10-24-year-in-review-recommendations/af5df8cd73cf3e4e93e655891756db0947d9b280.png)
+![DeepSeek Harness](2026-10-24-year-in-review-recommendations/af5df8cd73cf3e4e93e655891756db0947d9b280.png)
 
 推荐：Deepseek Harness / WorkBuddy / Qoder / Trae 等类似物
 
@@ -95,7 +95,9 @@ description: 这一年里值得买和劝退的东西。
 
 ## 不推荐
 
-### 1. 小米金沙江 10000mAh 无线充电宝![小米金沙江充电宝超薄磁吸 10000 45W 宣传图](2026-10-24-year-in-review-recommendations/acd5c32af54f5ef0596fd76db899f4e1490c003e.png)
+### 1. 小米金沙江 10000mAh 无线充电宝
+
+![小米金沙江充电宝超薄磁吸 10000 45W](2026-10-24-year-in-review-recommendations/acd5c32af54f5ef0596fd76db899f4e1490c003e.png)
 
 不推荐：小米金沙江 10000mAh 无线充电宝 参考价格：280 元
 
@@ -107,7 +109,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 2. Xiaomi Mimo 系列大模型
 
-![Xiaomi MiMo V2.5 系列开启公测宣传图](2026-10-24-year-in-review-recommendations/b09cd7eab063172199d38b6bf554753b0617b4c2.png)
+![Xiaomi MiMo V2.5 系列](2026-10-24-year-in-review-recommendations/b09cd7eab063172199d38b6bf554753b0617b4c2.png)
 
 不推荐：Xiaomi Mimo 系列大模型
 
@@ -123,7 +125,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 3. 绝大部分 2026 年的数码新品
 
-![AI 生成的桌面数码产品全家福，摆满笔记本、平板、手机、头戴耳机、VR 头显、相机与掌机](2026-10-24-year-in-review-recommendations/f4bc5eadb972bd85dceb1fb9043125269914ef29.png)
+![AI 生成的 2026 桌面数码产品全家福](2026-10-24-year-in-review-recommendations/f4bc5eadb972bd85dceb1fb9043125269914ef29.png)
 
 注：图片由 AI 生成，不知道为啥我让生成数码产品的图片它这么喜欢苹果...
 
@@ -133,7 +135,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 4. 水月雨 GM01 无线游戏耳机
 
-![水月雨 GM01 黑色头戴式无线游戏耳机，带可弯曲麦克风](2026-10-24-year-in-review-recommendations/1f622ab817f025f0dc93afe9baa477631089d309.png)
+![水月雨 GM01 黑色头戴式无线游戏耳机](2026-10-24-year-in-review-recommendations/1f622ab817f025f0dc93afe9baa477631089d309.png)
 
 不推荐：水月雨 GM01 无线游戏耳机。参考价格：155 元。
 
@@ -141,7 +143,7 @@ description: 这一年里值得买和劝退的东西。
 
 首先音质远远不及预期，不过本来它就只是个 200 块的东西，买之前我就没考虑音质这个方面。但最让我不能忍的是它有吞字现象。具体问题是当你在游戏中按键发言，或者使用语音输入法按键发言时，它会吞掉前半秒左右的内容。当守望先锋团战打得最激烈时，按键沟通却要等半秒才能传递信息，这种体验是我不可忍受的。由于我没用过其他无线游戏耳机，我不确定这是不是通病，但我很确定这个耳机没法满足我的需求。
 
-### 5.《明日方舟：终末地》根脉奇境活动
+### 5. 《明日方舟：终末地》根脉奇境活动
 
 ![《明日方舟：终末地》根脉奇境活动宣传图](2026-10-24-year-in-review-recommendations/c9ef12b7cd4b3ca0a29711c41b57ca2115cfa103.png)
 
@@ -153,7 +155,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 6. 火绒安全软件
 
-![火绒安全软件 6.0 官网首页，标语「畅享纯粹终端防护」](2026-10-24-year-in-review-recommendations/5a58763f02458dc2345b8c7c8987e7e154879a87.png)
+![火绒安全软件 6.0 官网首页](2026-10-24-year-in-review-recommendations/5a58763f02458dc2345b8c7c8987e7e154879a87.png)
 
 不推荐：火绒安全软件
 
@@ -167,13 +169,15 @@ description: 这一年里值得买和劝退的东西。
 
 ### 7. 千问输入法
 
-![千问输入法官网首页，标语「说完即成稿」](2026-10-24-year-in-review-recommendations/44dd8a76e1e7c89175f20b2e0c7b26b48c1af4c2.png)
+![千问输入法官网首页](2026-10-24-year-in-review-recommendations/44dd8a76e1e7c89175f20b2e0c7b26b48c1af4c2.png)
 
 不推荐：千问输入法
 
 输入法这个品类一直不怎么受大厂待见，原因就是商业模式太难。卖数据、加广告的话用户不乐意，卖皮肤又没人买。结果 2026 年 AI 风一吹，厂商反而想起来输入法才是最直接的入口了。市面上接连出现了 微信输入法、Typeless、豆包输入法、千问输入法等产品（注：微信输入法不是赶 AI 风口的，或者说不全是）。它们大多以语音输入、自动整理为核心，部分还有多端同步功能。
 
 其中这个千问输入法实在是令我无法忍受。我很难想象在 2026 年的现在，一个由阿里此等大厂当成正式版发布的软件，顶着千问品牌的鼎鼎大名，居然能在 Windows 和安卓双端下都有严重的卡顿。而且应用细节极其粗糙，功能缺失极其严重（你能想象它连 10 年前的百度输入法都有的剪贴板都没做吗），整个应用像是临时拼凑出来和微信豆包输入法抢市场的。而微信豆包输入法都出来多久了，搜狗百度输入法都出来多久了，真是抄都抄不明白╮(╯▽╰)╭
+
+（后注：千问输入法后来把剪贴板做出来了，但词库云同步、表情面板等诸多功能仍然缺失，仍然不建议使用）
 
 ## 结语
 
