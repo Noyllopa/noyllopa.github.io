@@ -19,7 +19,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 1. 小米 15
 
-![深灰色小米 15 手机正面与背面](2026-10-11-year-in-review-recommendations/3d1419a82a3e84695c5cf5daf946adf6a2f7e8f7.png)
+![深灰色小米 15 手机正面与背面](2026-10-24-year-in-review-recommendations/3d1419a82a3e84695c5cf5daf946adf6a2f7e8f7.png)
 
 推荐：小米 15。价格参考：16GB + 512GB / 2800 元。
 
@@ -29,7 +29,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 2.蜂蜜冻干柠檬片
 
-![蜂蜜冻干柠檬片](2026-10-11-year-in-review-recommendations/9746a327e9011420daeb53d5eb3d64ab3381d183.webp)
+![蜂蜜冻干柠檬片](2026-10-24-year-in-review-recommendations/9746a327e9011420daeb53d5eb3d64ab3381d183.webp)
 
 推荐：蜂蜜冻干柠檬片。价格参考：200g / 20 元
 
@@ -39,7 +39,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 3. 米家空气净化器 2
 
-![白色米家空气净化器 2](2026-10-11-year-in-review-recommendations/d606812271dd7f98e5585a7a4a5d97c1b8870760.png)
+![白色米家空气净化器 2](2026-10-24-year-in-review-recommendations/d606812271dd7f98e5585a7a4a5d97c1b8870760.png)
 
 推荐：米家空气净化器 2。价格参考：80 元（二手、不带滤芯）
 
@@ -49,7 +49,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 4. 花椒油
 
-![金龙鱼花椒油 100 毫升瓶装](2026-10-11-year-in-review-recommendations/cc05e47c9339a78921b7a2cff771437cd5ec0024.png)
+![金龙鱼花椒油 100 毫升瓶装](2026-10-24-year-in-review-recommendations/cc05e47c9339a78921b7a2cff771437cd5ec0024.png)
 
 推荐：花椒油。价格参考：100ml / 6 元。
 
@@ -57,7 +57,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 5. 酷态科 6 号电能卡片 Air
 
-![酷态科 6 号电能卡片 Air 插在墙插上，标注重心上移结构](2026-10-11-year-in-review-recommendations/dcc725ac251a2209d27345fddfb7cb53edceca4e.png)
+![酷态科 6 号电能卡片 Air 插在墙插上，标注重心上移结构](2026-10-24-year-in-review-recommendations/dcc725ac251a2209d27345fddfb7cb53edceca4e.png)
 
 推荐：酷态科 6 号电能卡片 Air。价格参考：86 元。
 
@@ -65,7 +65,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 6. 美国运通信用卡
 
-![美国运通标志与「有此相伴 成此人生」标语](2026-10-11-year-in-review-recommendations/7386b53e92ca16280d59b47f1d8dd66f240cf7c9.png)
+![美国运通标志与「有此相伴 成此人生」标语](2026-10-24-year-in-review-recommendations/7386b53e92ca16280d59b47f1d8dd66f240cf7c9.png)
 
 推荐：美国运通信用卡
 
@@ -75,7 +75,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 7. 农行 VISA 全球支付尊享白金卡
 
-![农行 VISA 全球支付尊享白金卡宣传图](2026-10-11-year-in-review-recommendations/c34c077920d68537d209432091a0316f18669f65.png)
+![农行 VISA 全球支付尊享白金卡宣传图](2026-10-24-year-in-review-recommendations/c34c077920d68537d209432091a0316f18669f65.png)
 
 推荐：农行 VISA 全球支付尊享白金卡
 
@@ -83,7 +83,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 8. AI 智能体平台
 
-![DeepSeek Harness 官网首页，标语「现在，开箱即用」](2026-10-11-year-in-review-recommendations/af5df8cd73cf3e4e93e655891756db0947d9b280.png)
+![DeepSeek Harness 官网首页，标语「现在，开箱即用」](2026-10-24-year-in-review-recommendations/af5df8cd73cf3e4e93e655891756db0947d9b280.png)
 
 推荐：Deepseek Harness / WorkBuddy / Qoder / Trae 等类似物
 
@@ -95,7 +95,7 @@ description: 这一年里值得买和劝退的东西。
 
 ## 不推荐
 
-### 1. 小米金沙江 10000mAh 无线充电宝![小米金沙江充电宝超薄磁吸 10000 45W 宣传图](2026-10-11-year-in-review-recommendations/acd5c32af54f5ef0596fd76db899f4e1490c003e.png)
+### 1. 小米金沙江 10000mAh 无线充电宝![小米金沙江充电宝超薄磁吸 10000 45W 宣传图](2026-10-24-year-in-review-recommendations/acd5c32af54f5ef0596fd76db899f4e1490c003e.png)
 
 不推荐：小米金沙江 10000mAh 无线充电宝 参考价格：280 元
 
@@ -107,7 +107,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 2. Xiaomi Mimo 系列大模型
 
-![Xiaomi MiMo V2.5 系列开启公测宣传图](2026-10-11-year-in-review-recommendations/b09cd7eab063172199d38b6bf554753b0617b4c2.png)
+![Xiaomi MiMo V2.5 系列开启公测宣传图](2026-10-24-year-in-review-recommendations/b09cd7eab063172199d38b6bf554753b0617b4c2.png)
 
 不推荐：Xiaomi Mimo 系列大模型
 
@@ -123,7 +123,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 3. 绝大部分 2026 年的数码新品
 
-![AI 生成的桌面数码产品全家福，摆满笔记本、平板、手机、头戴耳机、VR 头显、相机与掌机](2026-10-11-year-in-review-recommendations/f4bc5eadb972bd85dceb1fb9043125269914ef29.png)
+![AI 生成的桌面数码产品全家福，摆满笔记本、平板、手机、头戴耳机、VR 头显、相机与掌机](2026-10-24-year-in-review-recommendations/f4bc5eadb972bd85dceb1fb9043125269914ef29.png)
 
 注：图片由 AI 生成，不知道为啥我让生成数码产品的图片它这么喜欢苹果...
 
@@ -133,7 +133,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 4. 水月雨 GM01 无线游戏耳机
 
-![水月雨 GM01 黑色头戴式无线游戏耳机，带可弯曲麦克风](2026-10-11-year-in-review-recommendations/1f622ab817f025f0dc93afe9baa477631089d309.png)
+![水月雨 GM01 黑色头戴式无线游戏耳机，带可弯曲麦克风](2026-10-24-year-in-review-recommendations/1f622ab817f025f0dc93afe9baa477631089d309.png)
 
 不推荐：水月雨 GM01 无线游戏耳机。参考价格：155 元。
 
@@ -143,7 +143,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 5.《明日方舟：终末地》根脉奇境活动
 
-![《明日方舟：终末地》根脉奇境活动宣传图](2026-10-11-year-in-review-recommendations/c9ef12b7cd4b3ca0a29711c41b57ca2115cfa103.png)
+![《明日方舟：终末地》根脉奇境活动宣传图](2026-10-24-year-in-review-recommendations/c9ef12b7cd4b3ca0a29711c41b57ca2115cfa103.png)
 
 不推荐：《明日方舟：终末地》根脉奇境活动
 
@@ -153,7 +153,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 6. 火绒安全软件
 
-![火绒安全软件 6.0 官网首页，标语「畅享纯粹终端防护」](2026-10-11-year-in-review-recommendations/5a58763f02458dc2345b8c7c8987e7e154879a87.png)
+![火绒安全软件 6.0 官网首页，标语「畅享纯粹终端防护」](2026-10-24-year-in-review-recommendations/5a58763f02458dc2345b8c7c8987e7e154879a87.png)
 
 不推荐：火绒安全软件
 
@@ -167,7 +167,7 @@ description: 这一年里值得买和劝退的东西。
 
 ### 7. 千问输入法
 
-![千问输入法官网首页，标语「说完即成稿」](2026-10-11-year-in-review-recommendations/44dd8a76e1e7c89175f20b2e0c7b26b48c1af4c2.png)
+![千问输入法官网首页，标语「说完即成稿」](2026-10-24-year-in-review-recommendations/44dd8a76e1e7c89175f20b2e0c7b26b48c1af4c2.png)
 
 不推荐：千问输入法
 
